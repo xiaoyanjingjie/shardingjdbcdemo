@@ -37,3 +37,12 @@ build/
 *.iml
 out
 gen
+/.gitignore
+/mvnw
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
+src/main/
+src/test/
